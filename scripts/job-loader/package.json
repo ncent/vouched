@@ -1,0 +1,17 @@
+{
+  "name": "job-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "create-posts": "node createPosts.js",
+    "create-users": "node createUsers.js",
+    "remove-posts": "node removePosts.js",
+    "remove-users": "node removeUsers.js"
+  },
+  "devDependencies": {
+    "firebase-admin": "^8.10.0",
+    "firebase-tools": "^7.15.1"
+  }
+}

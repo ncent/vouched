@@ -1,0 +1,282 @@
+[
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff204051",
+        "message": "![](https://we-work-remotely.imgix.net/logos/0016/2005/logo.gif?ixlib=rails-2.1.3&w=50&h=50&dpr=2&fit=fill) # About the company\nWorking hand in hand with our engineering, leadership and government partners to oversee all things pertinent to the successful implementation and delivery of a major government initiative"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff3b6978",
+        "message": "# Engineers who ask:\n* Business Questions\n* Oddball believes that the best products\n* And are built when teams understand and value the things they are working on."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff84a9ac",
+        "message": "## We expect people with expertise in Systems Management: \n* Ability organize and bring together technology\n* Organize and manage people, venders, management, etc.\n* Hability to tackle complex and multi-level business problems"
+      }
+    ],
+    "private": false,
+    "subject": "System Manager",
+    "tags": ["docker", "aws", "management"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "07eWl3LRiPbnS0DKoDoRZH4L7oe2",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff2b580c",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/7249775-df6ee81f5d10cf4107bac826a12dc6f4-medium_jpg.jpg?buster=1570899554)\n # Overview\nWe connect companies with top software developers, UX/UI designers, and product managers"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff639a67",
+        "message": "# You\n A propensity to learn, explore, gain experience thru research, action, shipping."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xffd9bf77",
+        "message": "# The assignment \nCreate a brand plus marketing campaign for one of our existing currencies or create a new one. Design the brand guide, landing pages, emails, advertisements and more. "
+      }
+    ],
+    "private": false,
+    "subject": "Design Intern",
+    "tags": ["advertising", "illustration", "photoshop"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff084177",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/398399-8f50c94e417631d7a35607d9934bb4fe-medium_jpg.jpg?buster=1546976058)\n# About Us\nBitGive is the first Bitcoin 501(c)(3) nonprofit, giving it tax exemption status at the federal level in the United States."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff687466",
+        "message": "Leveraging Bitcoin and Blockchain technology to revolutionize global philanthropy"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xffcd8d7b",
+        "message": "Nuestra plataforma está desarrollada utilizando los siguientes lenguajes y tecnologías:\n* ReactJS\n* NodeJS\n* JavaScript\n* Express\n* Swagger\n* MySQL\n* CSS/SCSS"
+      }
+    ],
+    "private": false,
+    "subject": "Team Lead Backend ",
+    "tags": ["javascript", "mysq", "aws"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xff000000",
+        "bgColor": "0xfffbcffc",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/7548774-c2d12b732e818e5a1b2991fd255be3dc-medium_jpg.jpg?buster=1583788945)\n ## Next Generation Job Platform Powered by Blockchain and AI"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xff000000",
+        "bgColor": "0xffcff1ef",
+        "message": "Ispolink provides comprehensive blockchain based solution that is tailored to make the recruitment process."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xff000000",
+        "bgColor": "0xffde7119",
+        "message": "What you need for this position:\n\n* Ability to work well independently, self-starter and self-motivated\n* Excellent written and oral communication, including editing for web copy\n* High-level attention to detail and accuracy\n* Strong project management and organizational skills\n* Passion for delivering exceptional customer service\n* Fast Internet Connection and working computer\n* Experience with engaging on social media to build awareness"
+      }
+    ],
+    "private": false,
+    "subject": "Content Manager",
+    "tags": ["content marketing", "article writing"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff000000",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/983680-53d94e8331a7b95f3bbd3bf2560e2067-medium_jpg.jpg?buster=1575492141)\n## Earn rewards on the blockchain for everyday purchases."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff323232",
+        "message": "Plutus is a London based Fintech startup, we provide a financial management and payments platform"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xffff1e56",
+        "message": "* Strong backend experience with Node.js/Express development.\n* At least 2 projects where you were fully involved in writing services on that technology\n* Proficiency JavaScript, CSS, HTML, SQL, PostgreSQL coding principles"
+      }
+    ],
+    "private": false,
+    "subject": "Backend Engineer",
+    "tags": ["nodejs", "blockchain", "bitcoin"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff552244",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/7493521-286ea5b22776160ebeb2ea2a120fe80f-medium_jpg.jpg?buster=1581713830)\n # One app the world around."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff596157",
+        "message": "We’re creating an end-to-end travel app that connects travellers, content creators and the travel supply into one decentralised platform, that is based on the blockchain."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff5b8c5a",
+        "message": "\n Travelicious is looking for a technical co-founder with a passion for building on blockchain -- experience with blockchain isn't absolutely necessary, if you're passionate and driven and will learn fast. We're looking for someone who can do the ground-work but also lead a team of developers later on, and see the vision to its completion."
+      }
+    ],
+    "private": false,
+    "subject": "Technical co-founder",
+    "tags": ["react.js", "blockchain", "aws"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff381460",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/7525488-6e9b413579305d2d1dcf699651e543e0-medium_jpg.jpg?buster=1582844898)\n # Lend & Borrow on Ethereum"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xffb21f66",
+        "message": "Zero Collateral is an unsecured lending market on Ethereum. The protocol is built for individuals who want easy access to capital, without the need to deal with a centralized institution."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff30475e",
+        "message": "Solidity Development\n* Added features: ETH as collateral, ETH price oracle, collateral liquidation, unique oracle contract to speak with off-chain backend\n* Run contract tests\n* Patch contract bugs or necessary upgrades\n* Monitor Smart Contract performance, and rectify any potential issues"
+      }
+    ],
+    "private": false,
+    "subject": "Ethereum Developer",
+    "tags": ["ethereum", "software dev", "solidity"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "Bza3BT5UAIh9bleQiE4nnCg1q123",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff481380",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/5301370-c4c2549174bd50fcaeeb5f1872769f1a-medium_jpg.jpg?buster=1544774795)\n## Invest better, together with trusted crypto investors"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff7f78d2",
+        "message": "Libertypool is where crypto investors help each other. It is an independent community of crypto investors around the world to gain outstanding profits by sharing portfolio and investment insights."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xffefb1ff",
+        "message": "### Responsibilities\n* Design, build and maintain efficient, reusable, and reliable Typescript code\n* Ensure the best possible performance, quality, and responsiveness of the applications\n* Integration of third-party crypto services\n* Integration of auth, data storage solutions (Firebase, Firestore)\n* Build user-facing elements made by a UI/UX designer"
+      }
+    ],
+    "private": false,
+    "subject": "Lead Developer",
+    "tags": ["fintech", "vue.js", "firebase"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff222831",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/192819-8a73aa6fb10a64707b9872f6d99ce660-medium_jpg.jpg?buster=1570117016) # Bleeding edge tech"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff393e46",
+        "message": "Scala Internship Looking for an intern familiar with scala to help contribute to one of the most advanced tech stacks in the blockchain industry. "
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff00adb5",
+        "message": "Our blockchain and p2p exchange has grown by leaps and bounds since inception April 2018. We are gearing up to take things to the next level. We have one of the fastest blockchain speeds in the world, and our blocks scale dynamically."
+      }
+    ],
+    "private": false,
+    "subject": "Scala Internship",
+    "tags": ["scala", "java"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  },
+  {
+    "creator": "04LE2UCVOwR2GaLvOmyu65HOSYz1",
+    "slides": [
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff005691",
+        "message": "![](https://d1qb2nb5cznatu.cloudfront.net/startups/i/5962480-17134523fe5c74b12db8cf93c72bda97-medium_jpg.jpg?buster=1573766090)\n# Aggero\n## Helping brands to tap in the esports and gaming industries."
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff004a7c",
+        "message": "Hi! We’re Aggero - an exciting new startup in esports and gaming industry tackling the advertising and sponsorship space. Our goal is to make it easier for gamers to become influencers that don't 'sell out' their audience, by linking only the most appropriate brands to the most appropriate audiences. This also means we’re going to be able to help brands figure out how to spend their money in the esports space efficiently - meaning brands get their message out to the appropriate people - saving time and money whilst maximising ROI!"
+      },
+      {
+        "fontSize": 26,
+        "fontColor": "0xffffffff",
+        "bgColor": "0xff769fcd",
+        "message": "We would expect you to have an awareness of (and an ability to transition between)\n* Ruby\n * React \n* Rails \n* Python3"
+      }
+    ],
+    "private": false,
+    "subject": "Full Stack Developer",
+    "tags": ["react", "ruby", "rails"],
+    "userVisibilityMetadata": {},
+    "visibility": []
+  }
+]
